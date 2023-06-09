@@ -48,7 +48,8 @@ The content and code in this repository are protected under the [MIT License](LI
 If you have any questions or inquiries regarding the Collaborative Text Editor application or its development, please feel free to contact me via email at [your-email@example.com](mailto:your-email@example.com). -->
 
 Thank you for your interest in the Collaborative Text Editor application!
-Demo video: https://www.youtube.com/watch?v=zk5gRdLzP2A&t=222s
+
+Access **demo video**: https://www.youtube.com/watch?v=zk5gRdLzP2A&t=222s
 
 You can test the text editor here: 
 http://asu-client-v2.s3-website-us-east-1.amazonaws.com/documents/9a3055eb-11d7-4199-9f82-7c03df3cb2b1
