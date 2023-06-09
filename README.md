@@ -12,8 +12,6 @@ The Collaborative Text Editor application offers the following features:
 
 - **Real-time Collaboration**: Multiple users can simultaneously edit a shared text document in real-time, enabling efficient collaboration and seamless communication.
 - **Cursor Presence**: Each user's cursor is displayed on the screen, allowing participants to see the editing positions of others in real-time.
-- **Chat Integration**: A built-in chat feature is provided for users to communicate, discuss changes, and share information within the collaborative editing environment.
-- **User Management**: The application supports user management functionality, allowing users to log in, create accounts, and maintain personalized profiles.
 
 ## Technologies Used
 
