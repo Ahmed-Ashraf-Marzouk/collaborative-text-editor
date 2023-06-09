@@ -4,7 +4,7 @@ Welcome to the repository for the Collaborative Text Editor application. This ap
 
 ## Accessing the Application
 
-To access the Collaborative Text Editor application, please visit [https://ahmed-ashraf-marzouk.github.io/collaborative-text-editor/](https://ahmed-ashraf-marzouk.github.io/collaborative-text-editor/). The application is hosted on GitHub Pages, providing a user-friendly interface for collaborative editing.
+To access the Collaborative Text Editor application, please visit [http://asu-client-v2.s3-website-us-east-1.amazonaws.com/](http://asu-client-v2.s3-website-us-east-1.amazonaws.com/). The application is hosted on GitHub Pages, providing a user-friendly interface for collaborative editing.
 
 ## Features
 
